@@ -5,7 +5,7 @@
 
 // Replace this after deploying your Cloudflare Worker.
 // Never put your OpenAI API key in this file.
-const WORKER_URL = "PASTE_YOUR_CLOUDFLARE_WORKER_URL_HERE";
+const WORKER_URL = "https://loreal-beauty-advisor.roghrame.workers.dev";
 
 // DOM elements
 const chatForm = document.getElementById("chatForm");
